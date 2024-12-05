@@ -1,3 +1,3 @@
 # DS105A - W10 Lecture Live Exercise 
 
-Author: [Vignesh](lebronjames.com)
+Author: [Vignesh](https://www.lebronjames.com/)
